@@ -1,7 +1,5 @@
 
----
 
-```markdown
 # Janitri Dashboard Login Page Automation
 
 This project automates the **Login Page UI** of the [Janitri Dashboard](https://dev-dash.janitri.in)  
@@ -59,7 +57,6 @@ Or run a specific test class:
 mvn -Dtest=LoginTests test
 ```
 
----
 
 ## 🧪 Automated Test Scenarios
 
@@ -105,6 +102,4 @@ Open it in a browser to view detailed test results.
 
 
 
----
-Do you want me to also include a **TestNG XML suite file** example in the README so anyone cloning your repo can run all tests without touching code?
-```
+
